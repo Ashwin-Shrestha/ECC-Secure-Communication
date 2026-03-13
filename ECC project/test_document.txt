@@ -1,0 +1,8 @@
+Project: Elliptic Curve Cryptography Implementation
+University: EU University of Applied Science
+Course: Software Optimization
+Date: Winter 2025/26
+
+This file is for testing AES encryption with ECC-derived key.
+The encryption uses AES-256-GCM mode for both confidentiality
+and integrity protection.
